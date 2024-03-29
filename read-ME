@@ -1,0 +1,17 @@
+DIGI-PET
+
+this is a simple app consisting with 3 images and 3 sounds corresponding to the images. this is your own mobil pet that needs to be fed ever 10 seconds 
+or that can be modified with the code. if treat is not to be given in every 10s the pets going to be sad and begin crying. However if you deine to give 
+  a treat using the no treat button it will get very angry. 
+
+i was not able to commit the full folder of images and sounds, please make 2 folder named images and sounds and put audio file and images in those folder.
+
+#dependencys
+react
+react-native
+expo-av:
+expo-constants
+expo-status-bar
+react-native-gesture-handler
+react-native-reanimated
+react-native-screens
